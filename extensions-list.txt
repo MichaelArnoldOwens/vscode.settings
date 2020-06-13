@@ -1,0 +1,9 @@
+ahmadawais.shades-of-purple
+auchenberg.vscode-browser-preview
+dracula-theme.theme-dracula
+emmanuelbeziat.vscode-great-icons
+johnpapa.winteriscoming
+monokai.theme-monokai-pro-vscode
+sdras.night-owl
+teabyii.ayu
+whizkydee.material-palenight-theme
